@@ -9,11 +9,13 @@ Requirements
 
 Project Management
 ------------------
-
+Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack.
+A1. 
 
 
 
 Working in Teams
 ----------------
-
+Q1. Give several examples of ground rules for a team.
+A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
