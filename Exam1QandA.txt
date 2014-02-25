@@ -14,10 +14,13 @@ A1.
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"?
 A2. 
 
+Q3. How are effort and duration used?  (Jose)
 
 
 Working in Teams
 ----------------
 Q1. Give several examples of ground rules for a team. (Eddie B.)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
+
+
 
