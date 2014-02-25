@@ -8,6 +8,9 @@ Requirements
 Q1. Give an example of user story.
 A1.
 
+Q2. Give an example of a non-functional requirement.
+A3.
+
 
 Project Management
 ------------------
