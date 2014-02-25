@@ -11,7 +11,7 @@ A1.
 
 Project Management
 ------------------
-Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack.
+Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack. (Eddie B.)
 A1. 
 
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"? Alternative?
