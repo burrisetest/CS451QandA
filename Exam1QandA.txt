@@ -15,6 +15,8 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A2. 
 
 Q3. How are effort and duration used?  (Jose)
+A3. Effort is used to measure resource usage and duration is used in scheduling. (Jose)
+
 
 
 Working in Teams
