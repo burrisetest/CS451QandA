@@ -4,7 +4,7 @@ Software Engineering Profession
 
 Requirements
 ------------
-<<<<<<< HEAD
+
 Q1. Are Requirement documents necessary for projects?	
 A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
 =======
@@ -13,7 +13,6 @@ A1.
 
 Q2. What is the difference between functional and non-functional requirements? - Jonathan W.
 A2.
->>>>>>> ddfa90810b43853bd16c863a5525df068d7f7a9a
 
 Project Management
 ------------------
@@ -33,12 +32,12 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
-<<<<<<< HEAD
+
 Q2. What are the reasons that make developers "Going Dark"?
 =======
 Q2. What are the four stages of team development? - Jonathan W.
 A2. Forming, Storming, Norming and Performing - Jonathan W.
->>>>>>> ddfa90810b43853bd16c863a5525df068d7f7a9a
+
 
 GIT / Github
 -------------
