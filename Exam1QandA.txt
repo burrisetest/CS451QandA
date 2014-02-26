@@ -5,7 +5,10 @@ Software Engineering Profession
 Requirements
 ------------
 Q1. Are Requirement documents necessary for projects?
-A.
+A1.
+
+Q2. What is the difference between functional and non-functional requirements? - Jonathan W.
+A2.
 
 Project Management
 ------------------
