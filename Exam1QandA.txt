@@ -28,6 +28,7 @@ A1. Practice mutual respect ever day. Meetings will start and end on time. Hones
 
 Q2. What are the four stages of team development? - Jonathan W.
 A2. Forming, Storming, Norming and Performing - Jonathan W.
+
 GIT / Github
 -------------
 Q1. What's the difference between fork and clone? - Aaron H.
