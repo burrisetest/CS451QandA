@@ -12,7 +12,8 @@ Q1. All tasks on the critical path must have non-zero free slack and non-zero to
 A1. 
 
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"?
-A2. 
+A1. It's ambiguous. - Aaron H.
+A2. Nothing.  - Aaron H.
 
 
 
