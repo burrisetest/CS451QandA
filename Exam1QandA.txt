@@ -21,3 +21,7 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie B.)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+
+GIT / Github
+-------------
+Q1. What's the difference between fork and clone? - Aaron H.
