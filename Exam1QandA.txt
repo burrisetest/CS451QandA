@@ -5,6 +5,7 @@ Software Engineering Profession
 Requirements
 ------------
 Q1. Are Requirement documents necessary for projects?	
+A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
 
 Project Management
 ------------------
@@ -24,6 +25,7 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+Q2. What are the reasons that make developers "Going Dark"?
 
 GIT / Github
 -------------
