@@ -4,7 +4,8 @@ Software Engineering Profession
 
 Requirements
 ------------
-
+Q1. Are Requirement documents necessary for projects?
+A.
 
 Project Management
 ------------------
