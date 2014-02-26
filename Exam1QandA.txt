@@ -4,8 +4,7 @@ Software Engineering Profession
 
 Requirements
 ------------
-Q1. Are Requirement documents necessary for projects?
-A.
+Q1. Are Requirement documents necessary for projects?	
 
 Project Management
 ------------------
@@ -16,7 +15,9 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
-
+Project Planning
+-----------------
+Q1. Why is it important to have project planning in every project? - Andrew L.
 
 Working in Teams
 ----------------
@@ -27,3 +28,4 @@ A1. Practice mutual respect ever day. Meetings will start and end on time. Hones
 GIT / Github
 -------------
 Q1. What's the difference between fork and clone? - Aaron H.
+A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
