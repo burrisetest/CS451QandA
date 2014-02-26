@@ -5,7 +5,10 @@ Software Engineering Profession
 Requirements
 ------------
 Q1. Are Requirement documents necessary for projects?
-A.
+A1.
+
+Q2. What is the difference between functional and non-functional requirements? - Jonathan W.
+A2.
 
 Project Management
 ------------------
@@ -23,6 +26,8 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+Q2. What are the four stages of team development? - Jonathan W.
+A2. Forming, Storming, Norming and Performing - Jonathan W.
 
 GIT / Github
 -------------
