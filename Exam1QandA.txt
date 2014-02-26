@@ -4,6 +4,10 @@ Software Engineering Profession
 
 Requirements
 ------------
+
+Q1. Are Requirement documents necessary for projects?	
+A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
+=======
 Q1. Are Requirement documents necessary for projects?
 A1.
 
@@ -19,16 +23,23 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
-
+Project Planning
+-----------------
+Q1. Why is it important to have project planning in every project? - Andrew L.
 
 Working in Teams
 ----------------
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+
+Q2. What are the reasons that make developers "Going Dark"?
+=======
 Q2. What are the four stages of team development? - Jonathan W.
 A2. Forming, Storming, Norming and Performing - Jonathan W.
+
 
 GIT / Github
 -------------
 Q1. What's the difference between fork and clone? - Aaron H.
+A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
