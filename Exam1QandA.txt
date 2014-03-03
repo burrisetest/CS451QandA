@@ -5,9 +5,10 @@ Software Engineering Profession
 Requirements
 ------------
 Q1. Name and describe the 3 types of requirements (John Donich)
-A1. Funciotnal Requirements - the primary features of the app, 
-Non-functional requriements - things like usablity, and quality requirements, 
-and constrainsts - the basic parameters of the project like the type of solution used or specific time frames for completion.
+A1.(John Donich) 
+	1. Functional Requirements - the primary features of the app, 
+	2. Non-functional requirements - things like suability, and quality requirements, 
+	3.and constraints - the basic parameters of the project like the type of solution used or specific time frames for completion.
 
 Project Management
 ------------------
@@ -24,3 +25,7 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie B.)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+Q2. Describe how conflict might be beneficial to a project. (John Donich)
+A2. (John Donich)
+Healthy conflict requires you to understand the motivations and outcomes of your stated project better because you have to defend your ideas. 
+It also brings out the weaknesses in your planning as those who oppose the plan are more likely to see flaws and thus you can address those issues.
