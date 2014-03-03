@@ -42,7 +42,9 @@ Q3. Name three characteristics of a highly functional team. --(Lukman B.)
 A1. Healthy relationships. Efficient and Effective. Energizing. Unity, Trust and Shared Purpose.----(Lukman B.)
 
 
-Q2. What are the reasons that make developers "Going Dark"?
+Q4. What are the reasons that make developers "Going Dark"?
+A4. i) avoid criticism ii) retain authorship of new work (Paul B.)
+
 =======
 Q2. What are the four stages of team development? - Jonathan W.
 A2. Forming, Storming, Norming and Performing - Jonathan W.
