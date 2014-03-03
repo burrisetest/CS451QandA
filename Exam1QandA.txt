@@ -23,11 +23,12 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
+Q3. What are four variables of a Project? (Jinal)
+
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
 
-Q2. What are four variables of a Project? (Jinal)
 
 Working in Teams
 ----------------
