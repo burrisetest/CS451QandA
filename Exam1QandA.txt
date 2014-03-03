@@ -4,7 +4,10 @@ Software Engineering Profession
 
 Requirements
 ------------
-
+Q1. Name and describe the 3 types of requirements (John Donich)
+A1. Funciotnal Requirements - the primary features of the app, 
+Non-functional requriements - things like usablity, and quality requirements, 
+and constrainsts - the basic parameters of the project like the type of solution used or specific time frames for completion.
 
 Project Management
 ------------------
