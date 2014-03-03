@@ -35,16 +35,24 @@ A7. 	Functional requirements are discrete (Either the feature is present or it's
 Project Management
 ------------------
 Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack. (Eddie B.)
+A1. Yes (Jinal)
 A1. True (Andrew B.)
+
 
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"?
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
+Q3. What are four variables of a Project? (Jinal)
+
 
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
+
+Q2. Describe effort and duration. (Jinal)
+A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
+	Effort is amount of labor required to finish the task. (Jinal)
 
 Working in Teams
 ----------------
