@@ -7,12 +7,12 @@ Requirements
 
 Q1. Are Requirement documents necessary for projects?	
 A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
-=======
-Q1. Are Requirement documents necessary for projects?
-A1.
 
-Q2. What is the difference between functional and non-functional requirements? - Jonathan W.
-A2. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
+Q2. Are Requirement documents necessary for projects?
+A2.
+
+Q3. What is the difference between functional and non-functional requirements? - Jonathan W.
+A3. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
 	Non-Functional requirements are continuous - present to some degree (scalable) ie. Ease of Use: Less <-|-|-> More (Paul B.)
 
 Project Management
@@ -35,12 +35,10 @@ Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
 Q2. What are some range of responses to a conflict
-
-A1. Do nothing. Private Conversation between affected members. Professional Airing of grievances. ---(Lukman B.)
+A2. Do nothing. Private Conversation between affected members. Professional Airing of grievances. ---(Lukman B.)
 
 Q3. Name three characteristics of a highly functional team. --(Lukman B.)
-
-A1. Healthy relationships. Efficient and Effective. Energizing. Unity, Trust and Shared Purpose.----(Lukman B.)
+A3. Healthy relationships. Efficient and Effective. Energizing. Unity, Trust and Shared Purpose.----(Lukman B.)
 
 
 Q4. What are the reasons that make developers "Going Dark"?
@@ -55,10 +53,8 @@ A6.
 Q7. At what stage of team development are teams least productive? (Andrew B.)
 A7. Teams are least productive during the 'storming' stage of team development. (Andrew B.)
 
-
-=======
-Q2. What are the four stages of team development? - Jonathan W.
-A2. Forming, Storming, Norming and Performing - Jonathan W.
+Q8. What are the four stages of team development? - Jonathan W.
+A8. Forming, Storming, Norming and Performing - Jonathan W.
 
 
 GIT / Github
