@@ -12,7 +12,8 @@ Q1. Are Requirement documents necessary for projects?
 A1.
 
 Q2. What is the difference between functional and non-functional requirements? - Jonathan W.
-A2.
+A2. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
+	Non-Functional requirements are continuous - present to some degree (scalable) ie. Ease of Use: Less <-|-|-> More (Paul B.)
 
 Project Management
 ------------------
