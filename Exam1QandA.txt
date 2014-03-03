@@ -29,6 +29,9 @@ Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
 
+Q2. Describe effort and duration. (Jinal)
+A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
+	Effort is amount of labor required to finish the task. (Jinal)
 
 Working in Teams
 ----------------
