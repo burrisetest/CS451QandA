@@ -5,15 +5,24 @@ Software Engineering Profession
 Requirements
 ------------
 
-Q1. Are Requirement documents necessary for projects?	
-A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
-=======
-Q1. Are Requirement documents necessary for projects?
-A1.
+Q1. Name and describe the 3 types of requirements (John Donich)
+A1.(John Donich) 
+	1. Functional Requirements - the primary features of the app, 
+	2. Non-functional requirements - things like suability, and quality requirements, 
+	3.and constraints - the basic parameters of the project like the type of solution used or specific time frames for completion.
 
+
+Q2. Are Requirement documents necessary for projects?	
+A2. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
+
+Q4. Are Requirement documents necessary for projects?
+A4.
+
+=======
 Q2. What is the difference between functional and non-functional requirements? - Jonathan W.
 A2. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
 	Non-Functional requirements are continuous - present to some degree (scalable) ie. Ease of Use: Less <-|-|-> More (Paul B.)
+
 
 Project Management
 ------------------
@@ -43,6 +52,18 @@ Q3. Name three characteristics of a highly functional team. --(Lukman B.)
 A1. Healthy relationships. Efficient and Effective. Energizing. Unity, Trust and Shared Purpose.----(Lukman B.)
 
 
+
+Q2. Describe how conflict might be beneficial to a project. (John Donich)
+A2. (John Donich)
+Healthy conflict requires you to understand the motivations and outcomes of your stated project better because you have to defend your ideas. 
+It also brings out the weaknesses in your planning as those who oppose the plan are more likely to see flaws and thus you can address those issues.
+
+
+Q3. What are the reasons that make developers "Going Dark"?
+
+Q4. What are the four stages of team development? - Jonathan W.
+A4. Forming, Storming, Norming and Performing - Jonathan W.
+=======
 Q4. What are the reasons that make developers "Going Dark"?
 A4. i) avoid criticism ii) retain authorship of new work (Paul B.)
 
@@ -54,7 +75,9 @@ Q2. What are the four stages of team development? - Jonathan W.
 A2. Forming, Storming, Norming and Performing - Jonathan W.
 
 
+
 GIT / Github
 -------------
 Q1. What's the difference between fork and clone? - Aaron H.
 A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
+
