@@ -31,6 +31,7 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
+
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
@@ -39,6 +40,14 @@ Working in Teams
 ----------------
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
+
+Q2. What are some range of responses to a conflict
+
+A1. Do nothing. Private Conversation between affected members. Professional Airing of grievances. ---(Lukman B.)
+
+Q3. Name three characteristics of a highly functional team. --(Lukman B.)
+
+A1. Healthy relationships. Efficient and Effective. Energizing. Unity, Trust and Shared Purpose.----(Lukman B.)
 
 
 Q2. Describe how conflict might be beneficial to a project. (John Donich)
