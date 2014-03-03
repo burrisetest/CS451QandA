@@ -18,7 +18,7 @@ A2. 	Functional requirements are discrete (Either the feature is present or it's
 Project Management
 ------------------
 Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack. (Eddie B.)
-A1. 
+A1. True (Andrew B.)
 
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"?
 A1. It's ambiguous. - Aaron H.
@@ -48,6 +48,12 @@ A4. i) avoid criticism ii) retain authorship of new work (Paul B.)
 
 Q5. What are the 3 principles of a healthy interaction? Which one is LEAST likely to mitigate ego programming? (Paul B.)
 A5. Respect, Trust, and Humility are three foundational principles of healthy team interaction. Trust is the least likely to mitigate ego programming. (Andrew B.)
+
+Q6. Why is team conflict good? (Andrew B.)
+A6. 
+
+Q7. At what stage of team development are teams least productive? (Andrew B.)
+A7. Teams are least productive during the 'storming' stage of team development. (Andrew B.)
 
 
 =======
