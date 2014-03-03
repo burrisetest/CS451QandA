@@ -17,7 +17,7 @@ A2.
 Project Management
 ------------------
 Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack. (Eddie B.)
-A1. 
+A1. Yes (Jinal)
 
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"?
 A1. It's ambiguous. - Aaron H.
@@ -26,6 +26,8 @@ A2. Nothing.  - Aaron H.
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
+
+Q2. What are four variables of a Project? (Jinal)
 
 Working in Teams
 ----------------
