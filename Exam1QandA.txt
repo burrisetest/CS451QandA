@@ -8,8 +8,6 @@ Requirements
 Q1. Are Requirement documents necessary for projects?	
 A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
 
-Q2. Are Requirement documents necessary for projects?
-A2.
 
 Q3. What is the difference between functional and non-functional requirements? - Jonathan W.
 A3. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
@@ -51,7 +49,7 @@ Q4. How are effort and duration used?  (Jose)
 A4. Effort is used to measure resource usage and duration is used in scheduling. (Jose)
 
 Q5. Why is a risk management plan important? (Aaron S.)
-A5.
+A5. This allows you to mitigate the damage that potential risks have, and allows you to follow a procedure when something goes wrong. (Dan R.)
 
 Project Planning
 -----------------
@@ -109,5 +107,8 @@ A1. Fork only allows clone on the server side and clone is a copy of a repositor
 >>>>>>> upstream/master
 
 Q2. What's the difference between committing and pushing in Git? (Rob Williams)
+A1. Commiting is the action of saving it to your local repository and prepping the document(s) to be transferred to the server-side.  Pushing is the action of sending
+    the document to the server. (Dan R.)
 
 Q3. What is the difference between a branch and a fork? (Aaron S.)
+A1. A fork is a team member's work, "forked" from the main repository.  A branch is an individual version of the project or experimental work.  (Dan R.)
