@@ -1,28 +1,108 @@
 Software Engineering Profession
 -------------------------------
-
+(not covered)
 
 Requirements
 ------------
+
+Q1. Are Requirement documents necessary for projects?	
+A1. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
+
+Q2. Are Requirement documents necessary for projects?
+A2.
+
+Q3. What is the difference between functional and non-functional requirements? - Jonathan W.
+A3. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
+
+Q4. Name and describe the 3 types of requirements (John Donich)
+A4.(John Donich) 
+	1. Functional Requirements - the primary features of the app, 
+	2. Non-functional requirements - things like suability, and quality requirements, 
+	3.and constraints - the basic parameters of the project like the type of solution used or specific time frames for completion.
+
+
+Q5. Are Requirement documents necessary for projects?	
+A5. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
+
+Q6. Are Requirement documents necessary for projects?
+A6.
+
+Q7. What is the difference between functional and non-functional requirements? - Jonathan W.
+A7. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
+	Non-Functional requirements are continuous - present to some degree (scalable) ie. Ease of Use: Less <-|-|-> More (Paul B.)
 
 
 Project Management
 ------------------
 Q1. All tasks on the critical path must have non-zero free slack and non-zero total slack. (Eddie B.)
-A1. 
+A1. Yes (Jinal)
+A1. True (Andrew B.)
+
 
 Q2. What, if anything, is wrong with reporting the status of a user story or milestone as "kind of done"?
-A2. 
-
-Q3. How are effort and duration used?  (Jose)
-A3. Effort is used to measure resource usage and duration is used in scheduling. (Jose)
+A1. It's ambiguous. - Aaron H.
+A2. Nothing.  - Aaron H.
 
 
+Q3. What are four variables of a Project? (Jinal)
+
+
+Q4. How are effort and duration used?  (Jose)
+A4. Effort is used to measure resource usage and duration is used in scheduling. (Jose)
+
+
+Project Planning
+-----------------
+Q1. Why is it important to have project planning in every project? - Andrew L.
+
+Q2. Describe effort and duration. (Jinal)
+A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
+	Effort is amount of labor required to finish the task. (Jinal)
 
 Working in Teams
 ----------------
-Q1. Give several examples of ground rules for a team. (Eddie B.)
+Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+<<<<<<< HEAD
 
+=======
+Q2. What are some range of responses to a conflict
+A2. Do nothing. Private Conversation between affected members. Professional Airing of grievances. ---(Lukman B.)
+
+Q3. Name three characteristics of a highly functional team. --(Lukman B.)
+A3. Healthy relationships. Efficient and Effective. Energizing. Unity, Trust and Shared Purpose.----(Lukman B.)
+
+Q4. Describe how conflict might be beneficial to a project. (John Donich)
+A4. (John Donich)
+Healthy conflict requires you to understand the motivations and outcomes of your stated project better because you have to defend your ideas. 
+It also brings out the weaknesses in your planning as those who oppose the plan are more likely to see flaws and thus you can address those issues.
+
+Q5. What are the reasons that make developers "Going Dark"?
+
+Q6. What are the four stages of team development? - Jonathan W.
+A6. Forming, Storming, Norming and Performing - Jonathan W.
+
+Q7. What are the reasons that make developers "Going Dark"?
+A7. i) avoid criticism ii) retain authorship of new work (Paul B.)
+
+Q8. What are the 3 principles of a healthy interaction? Which one is LEAST likely to mitigate ego programming? (Paul B.)
+A8. Respect, Trust, and Humility are three foundational principles of healthy team interaction. Trust is the least likely to mitigate ego programming. (Andrew B.)
+
+Q9. Why is team conflict good? (Andrew B.)
+A9. 
+
+Q10. At what stage of team development are teams least productive? (Andrew B.)
+A10. Teams are least productive during the 'storming' stage of team development. (Andrew B.)
+
+Q11. What are the four stages of team development? - Jonathan W.
+A11. Forming, Storming, Norming and Performing - Jonathan W.
+
+
+
+GIT / Github
+-------------
+Q1. What's the difference between fork and clone? - Aaron H.
+A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
+>>>>>>> upstream/master
 
