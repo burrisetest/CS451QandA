@@ -50,6 +50,8 @@ A3. Scope, Time, Resources, and Quality (Rob Williams)
 Q4. How are effort and duration used?  (Jose)
 A4. Effort is used to measure resource usage and duration is used in scheduling. (Jose)
 
+Q5. Why is a risk management plan important? (Aaron S.)
+A5.
 
 Project Planning
 -----------------
