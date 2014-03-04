@@ -43,7 +43,12 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
+
 Q3. What are four variables of a Project? (Jinal)
+
+
+Q4. How are effort and duration used?  (Jose)
+A4. Effort is used to measure resource usage and duration is used in scheduling. (Jose)
 
 
 Project Planning
@@ -59,6 +64,9 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
+<<<<<<< HEAD
+
+=======
 Q2. What are some range of responses to a conflict
 A2. Do nothing. Private Conversation between affected members. Professional Airing of grievances. ---(Lukman B.)
 
@@ -96,4 +104,5 @@ GIT / Github
 -------------
 Q1. What's the difference between fork and clone? - Aaron H.
 A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
+>>>>>>> upstream/master
 
