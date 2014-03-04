@@ -44,7 +44,7 @@ A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
 Q3. What are four variables of a Project? (Jinal)
-
+A3. Scope, Time, Resources, and Quality (Rob Williams)
 
 Project Planning
 -----------------
