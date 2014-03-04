@@ -97,3 +97,4 @@ GIT / Github
 Q1. What's the difference between fork and clone? - Aaron H.
 A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
 
+Q2. What's the difference between committing and pushing in Git? (Rob Williams)
