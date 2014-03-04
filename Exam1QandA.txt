@@ -25,7 +25,7 @@ Q5. Are Requirement documents necessary for projects?
 A5. Yes, requirement documents describe what a particular software does or shall do. It is produced and consumed by everyone involved in the production of software. (Andrew L.) 
 
 Q6. Are Requirement documents necessary for projects?
-A6.
+A6. Yes (Rob Williams)
 
 Q7. What is the difference between functional and non-functional requirements? - Jonathan W.
 A7. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
